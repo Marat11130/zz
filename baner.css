@@ -12,3 +12,19 @@
 	margin-left: 40%;
 	margin-top: 20%;
 }
+.aa {
+		text-decoration: none;
+	border: 4px solid #0c8bcf;
+	color: #0c8bcf;
+	font-size: 36px;
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+	width: 310px;
+	height: 130px;
+	display: block;
+	text-align: center;
+	line-height: 70px;
+	border-radius: 100px;
+	margin-left: 23%;
+	margin-top: 35%
+}
