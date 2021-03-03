@@ -1,17 +1,3 @@
-.baner1 {
-	margin-left: 17%;
-}
-.baner2 {
-	margin-left: 57%;
-}
-.baner3 {
-	margin-left: 17%;
-	margin-top: 25%;
-}
-.baner4 {
-	margin-left: 57%;
-	margin-top: 25%;
-}
 .aa {
 	text-decoration: none;
 	border: 4px solid #0c8bcf;
@@ -25,10 +11,4 @@
 	text-align: center;
 	line-height: 70px;
 	border-radius: 100px;
-	margin-left: 37%;
-	margin-top: 45%
-}
-.zz {
-	border: 4px solid #0c8bcf;
-	color: #0c8bcf;
 }
